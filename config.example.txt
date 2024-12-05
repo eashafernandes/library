@@ -1,0 +1,5 @@
+#Rename this file with .py extension and add in your server specific configurations
+#Have added default values below
+
+PORT = 5000 #Your Port on which the server will run
+HOST = "0.0.0.0" #Host on which the server will run
